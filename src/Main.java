@@ -17,5 +17,7 @@ public class Main {
         //      System.out.println(kiscicc2.isMale);
         // System.out.println(kiscicc3.isMale);
         //  kiscicc3.sayMyName();
+
+        System.out.println("gyak");
     }
 }
